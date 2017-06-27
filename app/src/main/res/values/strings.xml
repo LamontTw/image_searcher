@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">image search demo</string>
+    <string name="Cancel">cancel</string>
+    <string name="hint">search image demo</string>
+    <string name="no_result">No result</string>
+    <string name="error">Error</string>
+</resources>
